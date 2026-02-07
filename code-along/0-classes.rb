@@ -4,5 +4,8 @@
 # rails runner code-along/0-classes.rb
 
 # String Class
-
+favorite_food = "tacos"
+puts favorite_food
 # String Methods
+# 
+#
